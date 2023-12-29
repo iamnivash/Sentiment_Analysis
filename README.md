@@ -49,5 +49,5 @@ Output Variables:
 13.	PERSONAL PRONOUNS
 14.	AVG WORD LENGTH
 15.	
-Checkout output data structure spreadsheet for the format of your output, i.e. “Output Data Structure.xlsx”.
+Checkout output data structure spreadsheet for the format of your output, i.e. “Output_Data_Structure.xlsx”.
 
